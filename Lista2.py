@@ -71,3 +71,13 @@ val.append(5)
 val.append(9)
 val.append(6)
 print(val)
+
+for v in val:
+    print(f"{v}...")
+    print(f"{v}...",end='')
+
+
+for c, v in enumerate (val ):
+    print(f"na posição {c+1} enocntrei o valor {v}!")
+    print ("cheguei ao final da lista")
+
