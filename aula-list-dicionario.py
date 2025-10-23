@@ -15,3 +15,6 @@ lista = {'nome': 'Pedro', 'idade': 25}
 del lista['idade']
 print(lista)
 
+
+
+

@@ -81,3 +81,5 @@ for c, v in enumerate (val ):
     print(f"na posição {c+1} enocntrei o valor {v}!")
     print ("cheguei ao final da lista")
 
+
+
